@@ -1,7 +1,5 @@
-### ¡Hola! 👋 [![analytics](http://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-549618-11&cid=1199c303-fe5c-4b09-bc41-c6e30eeb9c7a&dp=%2Fsrfrog)]()
-![GitHub last commit](https://img.shields.io/github/last-commit/srfrog/srfrog)
+### ¡Hola! 👋 [![analytics](http://www.google-analytics.com/collect?v=1&t=pageview&tid=UA-549618-11&cid=1199c303-fe5c-4b09-bc41-c6e30eeb9c7a&dp=%2Fsrfrog)]() ![GitHub last commit](https://img.shields.io/github/last-commit/srfrog/srfrog)
 
----
 :octocat: Current interests:
 - 🌱 I’m currently learning [serverless](https://github.com/serverless/serverless) and [flutter](https://github.com/flutter/flutter)
 - 👯 I’m looking to maintain abandoned and forgotten [Go](https://github.com/golang/go) projects
