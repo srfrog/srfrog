@@ -11,7 +11,3 @@
 - I used to host an open-source games review site called [GameBoom](http://gameboom.net).
 - I have spent more on time IRC ([EFNet](http://chat.efnet.org:9090/?channels=%23LiCe&Login=Login)) than I can be proud.
 - I have never had a Facebook account.
-
----
-🔗 [srfrog.me](https://srfrog.me)
-
