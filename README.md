@@ -12,7 +12,8 @@
 - I lurk on IRC@[EFNet][efnet] more than I should.
 - I have never had a Facebook account.
 
-Disclaimer: I'm tracking this page.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [rust]: https://github.com/rust-lang
 [flutter]: https://github.com/flutter
