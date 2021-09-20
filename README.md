@@ -7,8 +7,8 @@ Current interests:
 
 ⚡ Fun facts:
 - I used to host an open-source games review site called [GameBoom][4].
-- I lurk on IRC@[5][efnet] more than I should.
-- I have never had a Facebook account.
+- I lurked on IRC@[efnet][5] more than I should've.
+- I have _never_ had a Facebook account.
 
 [1]: https://github.com/rust-lang
 [2]: https://github.com/sveltejs/svelte
